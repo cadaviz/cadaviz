@@ -1,0 +1,5 @@
+- 👋 Hello, I’m @cadaviz
+- 👀 I’m interested in act as a software engineer
+- 🌱 I’m currently improving my knowledges in .Net Core 
+- 💞️ I’m looking to collaborate into a project that make difference in people lives
+- 📫 My e-mail is miguelcadaviz@gmail.com
